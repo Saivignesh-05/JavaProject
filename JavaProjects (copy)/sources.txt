@@ -1,8 +1,0 @@
-./main/utility/Validator1.java
-./main/client/ClientQuizGame.java
-./main/client/Client.java
-./main/services/quiz/StartQuizGame.java
-./main/server/MultiServerThread.java
-./main/server/MultiServer.java
-
-
